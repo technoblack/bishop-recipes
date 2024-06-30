@@ -1,1 +1,1 @@
-# bishop-recipes
+Recipes
